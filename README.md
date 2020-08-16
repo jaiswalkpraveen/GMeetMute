@@ -24,7 +24,7 @@ To run this project, install below items locally :
 Language: Java 8
 Build Tool: Maven
 Automation Tool: Selenium
-Test framework tool: TestNG
+Test framework tool: TestNG, BDD, Cucumber
 External file: json
 ```
 
