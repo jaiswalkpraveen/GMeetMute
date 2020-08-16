@@ -1,0 +1,11 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="meetMute">
+<test name="e2e">
+<classes>
+<class name="testNG.setUp" >
+</class>
+</classes>
+</test>
+</suite>
+
+
